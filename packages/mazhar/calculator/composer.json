@@ -1,0 +1,12 @@
+{
+    "name": "mazhar/calculator",
+    "description": "This is a calculator package",
+    "authors": [
+        {
+            "name": "Mazharul Islam",
+            "email": "mazharulslm9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
